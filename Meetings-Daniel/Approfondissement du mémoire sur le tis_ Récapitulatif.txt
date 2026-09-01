@@ -1,0 +1,75 @@
+Approfondissement du mémoire sur le tissage numérique
+mer. 12 août 2026
+
+Résumé:
+
+La réunion a précisé les axes de recherche de Rokhy sur les liens entre tissage, technologies et design.
+• Entretien avec Gamme Susketi à transcrire
+• Documentation matérielle des œuvres à approfondir
+• Motifs pixelisés et techniques de tressage rapprochés
+• Dialogue approfondi privilégié avec Daniel Siscouti
+• Approches qualitative, typographique et générative examinées
+• Prochain rendez-vous fixé au 1er septembre à 14 heures
+
+
+Tâches:
+
+* Rokhy Niang: Transcrire l’entretien avec Gamme Susketi
+* Rokhy Niang: Commencer la rédaction de ses analyses à partir de ses lectures la semaine suivante
+* Rokhy Niang: Rédiger la synthèse de l’entretien et des notes collectées
+* Rokhy Niang: Recontacter Gamme Susketi pour préciser les questions restées ouvertes sur les câbles, les fils électriques et les collaborations artisanales
+* Daniel: Envoyer à Rokhy les images ou documents nécessaires pour examiner les motifs technologiques présents sur la natte
+* Rokhy Niang: Rédiger le résumé et les questions, puis les envoyer à Daniel pour relecture.
+* Rokhy Niang: Approfondir l’analyse de l’adaptation des technologies, des motifs, des matériaux et des usages.
+* Rokhy Niang: Relancer Vanessa Tunizere et les autres personnes contactées qui n’ont pas encore répondu.
+* Rokhy Niang: Préparer l’avancement de son travail pour le prochain rendez-vous.
+* Daniel: Confirmer ou modifier l’horaire du prochain rendez-vous par courriel si nécessaire.
+* Rokhy Niang: Vérifier dans la documentation des œuvres les procédés de tissage, les matériaux utilisés et le rôle des artisans
+* Rokhy Niang: Poursuivre le dialogue avec Daniel Siscouti en lui adressant de nouvelles questions si nécessaire.
+
+
+Points de discussion clés:
+
+Avancement de l’entretien et des lectures
+Après quelques difficultés de connexion, Rokhy Niang présente le déroulement positif de son entretien avec Gamme Susketi, réalisé rapidement en raison de ses contraintes de disponibilité. Il décrit ensuite l’état de ses lectures, de ses notes et de la préparation de la rédaction, tandis que Daniel l’encourage à sélectionner les références en fonction de ses questions de recherche et à commencer à écrire.
+
+Organisation du suivi et ressources nécessaires
+Daniel cherche à déterminer comment rendre les réunions de suivi utiles, sans en faire une obligation formelle, notamment parce que les échéances approchent. Rokhy explique qu’il n’a pas encore de demande précise et qu’il trouve les articles dont il a besoin en ligne.
+
+Analyse de l’entretien et collaborations artisanales
+Rokhy revient sur les échanges concernant le tissage, un projet non soutenu et la collaboration avec l’artisan Edimir Rosa. La discussion aborde les difficultés de collaboration avec des tisserands, ainsi que les liens possibles entre savoir-faire pratiques, jeux vidéo et modélisation 3D.
+
+Installations interactives et matériaux de tissage
+Daniel et Rokhy examinent la description d’une installation interactive reliant ordinateur et interaction humaine. Ils discutent de la présence de tissus, de câbles, de peignes ou d’objets imprimés en 3D, mais plusieurs détails techniques restent à vérifier dans les œuvres et dans l’entretien.
+
+Tissage électrique et questions à approfondir
+Daniel signale un autre projet intitulé « Tissage potentiel », qui utiliserait des fils électriques et des fils de soudure. Rokhy reconnaît que ce sujet n’a pas été suffisamment abordé lors de l’entretien, ce qui ouvre une piste pour une éventuelle reprise de contact et pour l’analyse des contraintes imposées aux tisserands par ces matériaux.
+
+Nattes, motifs pixelisés et production sénégalaise
+La conversation se déplace vers une natte portant des motifs technologiques et un logo pixelisé, ainsi que vers les productions de CSAO. Daniel et Rokhy discutent de l’origine des nattes, de leur fabrication au Sénégal, du rôle de Valérie Schlumberger et des relations entre production artisanale, production industrielle et histoire sociale.
+
+Motifs, coiffures et distinction entre tissage et représentation
+Daniel relie le motif pixelisé de la natte aux croisillons de sa structure et aux motifs présents dans les tresses et les coiffures sénégalaises. La discussion se termine provisoirement sur la distinction entre produire des motifs ou des objets liés au tissage et pratiquer directement le métier à tisser.
+
+Adaptation des matériaux et des motifs
+Daniel et Rokhy ont examiné la notion d’adaptation appliquée aux technologies et aux motifs. Daniel a insisté sur la nécessité de se rapprocher des pratiques concrètes et d’étudier les matériaux, les procédés de tissage ainsi que les différences entre œuvres artistiques et produits destinés à la série. La discussion a également porté sur les interactions entre textiles, fils métalliques, câbles gainés et plastiques, ainsi que sur leurs implications pour l’art et le design.
+
+Art, design et production en série
+À partir d’exemples liés aux Fab Labs, l’échange a abordé le passage de la pièce unique ou de la série limitée à une production de milliers de pièces. Daniel a invité Rokhy à interroger les essais éventuels de fabrication en série, les usages des tissus et la place de la sémiologie dans son analyse. Rokhy a estimé que la démarche étudiée concernait surtout les interactions et la création artistique.
+
+Dialogue approfondi avec une artiste
+Daniel a proposé que Rokhy établisse un dialogue continu avec Daniel Siscouti, en s’appuyant sur les questions déjà préparées et sur de nouvelles interrogations au fil de la recherche. Cette formule pourrait remplacer ou compléter la multiplication des interviews et être présentée comme un échange approfondi dans le mémoire. Rokhy a précisé qu’elle cherche notamment à obtenir des informations, des avis et des conseils sur son propre travail.
+
+Choix des interlocuteurs et méthodes d’enquête
+Daniel a questionné la raison d’interroger plusieurs personnes, notamment Tegan Bristow, tandis que Rokhy a expliqué qu’elle souhaitait principalement échanger avec Daniel et Vanessa Tunizere. Vanessa l’intéresse en raison de la proximité de son travail avec le sien et de son expertise possible sur la transcription des motifs, la typographie et le design génératif. L’échange a ensuite distingué l’approche qualitative de Rokhy d’une enquête quantitative fondée sur des statistiques et un grand nombre de réponses.
+
+Poursuite des recherches et relances
+Daniel a valorisé la qualité du premier document de Rokhy et l’a encouragée à approfondir les pistes déjà choisies. Ils ont fait le point sur les contacts avec Daniel Siscouti, Vanessa Tunizere et d’autres interlocuteurs, plusieurs sollicitations étant restées sans réponse. Daniel et Rokhy ont convenu qu’il était pertinent de relancer les personnes contactées afin d’obtenir une réponse, y compris une réponse négative.
+
+Prochain rendez-vous
+La réunion s’est conclue par la planification d’un prochain échange. Après avoir envisagé le 25 août puis un délai de trois semaines, Daniel et Rokhy ont retenu le 1er septembre à 14 heures. L’horaire pourra être ajusté ultérieurement par courriel.
+
+
+Bloc-notes:
+
+* Pas de notes

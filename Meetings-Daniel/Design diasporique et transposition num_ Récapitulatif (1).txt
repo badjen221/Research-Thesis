@@ -1,0 +1,78 @@
+Design diasporique et transposition numérique
+mar. 21 juil. 2026
+
+Résumé:
+
+Réunion sur la problématique, la méthodologie d'entretiens et les ressources bibliographiques pour un travail sur la diffusion des motifs textiles et leur passage au numérique.
+• Deux questions centrales à préciser: sens historique et adaptation numérique
+• Élaborer un conducteur d'entretien comparable entre répondants
+• Choisir échelle d'étude: locale ou panafricaine (préférer focus)
+• Identifier motifs/tissus exemplaires et préparer dossier visuel
+• Anticiper temps de transcription et analyse des entretiens
+• Problèmes d'accès aux ouvrages (Beauvoland, Kendi, Adinkra)
+
+
+Tâches:
+
+* Daniel: Envoyer le fichier PDF de notes par e-mail à Rokhy
+* Daniel: Proposer et préparer un conducteur d'entretien pour la semaine ou les deux prochaines semaines
+* Rokhy Niang: Partager un document de questions ou un premier conducteur pour discussion
+* Rokhy Niang: Confirmer les personnes à interviewer et le nombre d'entretiens prévus
+* Rokhy Niang: Formuler et partager une version affinée des questions d'entretien, en distinguant questions pour praticiens et pour chercheurs
+* Daniel: Envoyer le lien des horaires et accès des bibliothèques universitaires de Genève dans le chat
+* Rokhy Niang: Tester les bibliothèques à Genève et confirmer lesquelles conviennent pour le travail
+* Daniel: Scanner ou apporter les pages pertinentes du livre de Souhichar si le document n'est pas disponible à l'Université de Genève
+* daniel: Envoyer les références et le lien vers les travaux recommandés
+* daniel: Apporter ou fournir l'ouvrage de Wendy Hui Kyung Chun si Rokhy ne le trouve pas
+* Rokhy Niang: Envoyer un texte d'environ 10 000 signes pour le master
+* Rokhy Niang: Définir et lister les motifs et les tissus ciblés et préparer un dossier illustré à utiliser lors des interviews
+
+
+Points de discussion clés:
+
+Problèmes techniques et mise en route
+La réunion commence par la résolution de problèmes audio et par des échanges informels entre Daniel et Rokhy qui confirment la connexion et lancent la conversation sur l'avancement du travail. Cette section sert à rétablir le contact et à situer l'état d'avancement général de Rokhy par rapport aux matériaux attendus.
+
+Matériel de lecture et pertinence des sources
+Rokhy détaille les ouvrages et articles en attente et en cours de lecture, en particulier les écrits d'Audrey Bennett et des livres sur Beauvoland, Kendi et les Adinkra, et commente la pertinence partielle de ces textes pour sa thèse sur le design diasporique et la diffusion symbolique des motifs.
+
+Feedback sur le document et formulation de la problématique
+Daniel parcourt le document de Rokhy, envoie des notes par PDF, et propose de clarifier la problématique en distinguant deux questions de recherche: préserver le sens/histoire des motifs et comprendre l'adaptation électronique par les designers; il recommande d'extraire preuves et passages dans la littérature pour montrer que les motifs constituent des systèmes visuels proches d'un langage.
+
+Méthodologie d'enquête et conduite des interviews
+La discussion porte sur l'emploi d'entretiens comme méthode, la préparation d'un conducteur d'entretien avec des questions identiques pour chaque interlocuteur, le risque d'entretiens trop larges sans conducteur, et la nécessité de prévoir transcription et analyse, ainsi que la préparation d'un dossier illustré des motifs et tissus pour les entretiens.
+
+Conception du questionnaire et liens entre interlocuteurs
+La discussion commence sur l'importance de préparer des questions communes et de relier les réponses entre différents interlocuteurs pour préciser la problématique. Daniel insiste sur le rôle du questionnaire pour guider les entretiens et établir des liens entre praticiens et chercheurs.
+
+Ciblage des interlocuteurs — praticiens vs chercheurs
+Rokhy interroge la pertinence d'un questionnaire uniforme pour des profils variés. Daniel propose soit un questionnaire principal et des variantes, soit de préciser ce qu'on attend de chaque interlocuteur avant de poser certaines questions.
+
+Thème technique — passage analogique vers numérique
+Le passage de l'analogique au numérique est identifié comme un constat central et une source de difficultés à explorer en entretien. Daniel suggère d'aborder les technologies utilisées, les problèmes rencontrés, les librairies nécessaires et les stratégies de contournement.
+
+Accès aux sources et cas des adinkra
+Rokhy décrit des difficultés d'accès aux sources et à l'identification des significations de certains motifs, en s'appuyant sur son expérience avec les adinkra et une publication sénégalaise. Daniel recommande d'interroger spécifiquement les chercheurs sur leurs sources et leur méthodologie.
+
+Échelle d'analyse et exemplification par un motif
+La conversation aborde l'opportunité de travailler à l'échelle continentale tout en restant concentré sur un motif exemplaire pour éviter la dispersion. Des références à des études sur des transferts culturels et un exemple de motif étudié par Souhichar illustrent cette approche.
+
+Ressources bibliographiques et assistance documentaire
+Daniel évoque des chapitres et ouvrages pertinents (Souhichar) et propose de faciliter l'accès aux documents, soit en indiquant leur localisation à Genève, soit en scannant des pages utiles.
+
+Logistique de travail et accès aux bibliothèques
+Rokhy exprime des contraintes liées à la fermeture d'espaces de travail et à la difficulté de concentration à domicile. Daniel indique que certaines bibliothèques universitaires restent ouvertes et propose d'envoyer des liens utiles; Rokhy prévoit de tester ces lieux.
+
+Software et dimension sociale
+La discussion commence par une réflexion sur la dimension sociale du logiciel et la distinction entre programmation et exécution, en insistant sur la présence d'acteurs humains dans la production du code. Daniel propose des lectures et promet d'envoyer des références pour approfondir la question.
+
+Motifs textiles et production collective
+Le débat se déplace vers le textile, en soulignant que les motifs nécessitent un tissage et souvent un travail collectif, avec des exemples d'artistes qui externalisent ou mobilisent des équipes. L'exemple d'El Anatsui est utilisé pour montrer comment des matériaux recyclés produisent des pièces qui ressemblent à du tissu mais reposent sur une économie de production.
+
+Consignes de rendu et format
+La conclusion aborde les modalités de rendu pour le master, avec la demande d'un texte d'environ 10 000 signes et la précision que ce volume peut inclure des extraits cités et des références aux travaux existants.
+
+
+Bloc-notes:
+
+* Pas de notes
